@@ -3,3 +3,4 @@ Test de la façon conventionnelle de commettre
 patate
 carotte
 potiron
+pois chiche

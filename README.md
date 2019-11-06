@@ -2,3 +2,5 @@
 Test de la façon conventionnelle de commettre
 plup
 truc
+bidule
+machin

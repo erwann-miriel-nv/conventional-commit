@@ -1,3 +1,3 @@
-# conventional-commit
-Conventional commit test
+# commettre de façon conventionnelle
+Test de la façon conventionnelle de commettre
 plup
